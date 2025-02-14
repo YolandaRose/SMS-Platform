@@ -1,0 +1,6 @@
+sms:
+  gzh:
+    api-url: http://api.gzhsms.com/sms/send  # 实际的接口地址
+    account: your_account
+    password: your_password
+    sign: 【测试签名】 
